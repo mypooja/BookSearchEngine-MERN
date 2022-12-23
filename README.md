@@ -26,7 +26,7 @@ https://stupendous-crepe-83797f.netlify.app/
 
 
 ## Credits
- W3Schools, Mozilla, and StackOverflow. Thanks to the entire internet for bootstrap help.
+ W3Schools, Mozilla, and StackOverflow. Thanks to the entire internet for help.
 
 ## License
 This application is covered under Creative Commons license. See repo for license.
