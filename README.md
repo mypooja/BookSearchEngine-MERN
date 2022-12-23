@@ -1,6 +1,6 @@
 # BookSearchEngine-MERN
 ## Description
-
+he app was built using the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server and API. It's  set up to allow users to save book searches and then look back to saved searches. 
 
 ## Table of Contents
 * Installation
@@ -15,14 +15,15 @@
 Once we have our Github, terminal, and vscode ready to go, we need to: npm i npm start
 
 ## Usage
-Click on tabs to look at my portfolio, about me, contact page, and resume.
 
-https://github.com/mypooja/react-portfolio
+github link : https://github.com/mypooja/BookSearchEngine-MERN
 
-https://stupendous-crepe-83797f.netlify.app/
+ heroku deploy link : https://radiant-journey-93059.herokuapp.com/
 
 ## Screenshot:
-![ScreenShot of the project](./src/images/profile-snapshot.png)
+![ScreenShot video link] 
+
+ https://drive.google.com/file/d/15oLpMUrJQHBMvROl7FrRvZ73pigaEW7d/view
 
 
 ## Credits
